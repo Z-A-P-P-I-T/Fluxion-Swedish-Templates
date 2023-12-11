@@ -10,6 +10,7 @@ Jag tar inget ansvar för hur dessa används!
 Usage:
         Please add these templates under the folder:
         fluxion/attacks/Captive Portal/sites/ and load them from the Fluxion GUI.
+        (Created 2018/05/11)
 
 Happy pentesting!
 
